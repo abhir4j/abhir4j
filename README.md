@@ -54,13 +54,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhir4j&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhir4j&layout=compact&theme=gruvbox&cache_seconds=86400" alt="Top Languages" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=abhir4j&show_icons=true&theme=gruvbox" alt="abhir4j's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhir4j&show_icons=true&theme=gruvbox&cache_seconds=86400" alt="abhir4j's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhir4j&theme=gruvbox" alt="abhir4j's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhir4j&bg_color=282828&color=ebdbb2&line=fb4934&point=fabd2f&area=true&hide_border=true" alt="abhir4j's Activity Graph" />
 </p>
 
 <h2 align="center">🐍 My Contribution Graph 🐍</h2>
