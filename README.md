@@ -55,6 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhir4j&layout=compact&theme=gruvbox" alt="Top Languages" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=abhir4j&show_icons=true&theme=gruvbox" alt="abhir4j's GitHub stats" />
 </p>
 
