@@ -15,23 +15,23 @@
   <a href="https://discord.com/users/752871497411985541" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
-## ✨ About Me
+##  About Me
 
-- 🎓 I'm an undergraduate student enthusiastically pursuing a career in **Software Engineering**.
-- 🚀 I love building exciting **Full Stack Web Applications** and tackling new challenges.
-- 🌱 Currently expanding my knowledge in **system architecture** and modern web technologies.
-- 👯 I'm always looking to collaborate on **Open Source projects** and connect with the tech community!
-- 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**—or just drop by to say hi.
-- ⚡ Fun fact: I love discovering creative coding techniques and exploring the vibrant world of open source.
+-  I'm an undergraduate student enthusiastically pursuing a career in **Software Engineering**.
+-  I love building exciting **Full Stack Web Applications** and tackling new challenges.
+-  Currently expanding my knowledge in **system architecture** and modern web technologies.
+-  I'm always looking to collaborate on **Open Source projects** and connect with the tech community!
+-  Ask me about **JavaScript, React, Node.js, and MongoDB**—or just drop by to say hi.
+-  Fun fact: I love discovering creative coding techniques and exploring the vibrant world of open source.
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,py,java,cpp,php,html,css,sql" alt="Programming Languages" />
 </p>
 
-### 🌐 Frameworks & Libraries
+###  Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,tailwind" alt="Frameworks and Libraries" />
 </p>
